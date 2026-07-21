@@ -1,0 +1,10 @@
+.posts-container {
+  display: grid;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
