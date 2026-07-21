@@ -17,7 +17,6 @@ import io.jsonwebtoken.security.Keys;
 @RestController
 public class AuthenticationController {
 
-    
     private static final String SECRET_KEY = "mysecretkeymysecretkeymysecretkey12";
 
     @GetMapping(value = "/authenticate", produces = MediaType.APPLICATION_JSON_VALUE)
