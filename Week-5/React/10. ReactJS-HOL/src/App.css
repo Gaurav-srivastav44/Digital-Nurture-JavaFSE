@@ -1,0 +1,32 @@
+.App {
+  padding: 24px;
+  font-family: Arial, sans-serif;
+}
+
+oh2 {
+  margin: 12px 0 6px;
+}
+
+office-list {
+  display: grid;
+  gap: 16px;
+}
+
+.office-list {
+  display: grid;
+  gap: 16px;
+}
+
+.office-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  background: white;
+}
+
+.office-card img {
+  width: 100%;
+  border-radius: 8px;
+  max-height: 220px;
+  object-fit: cover;
+}
