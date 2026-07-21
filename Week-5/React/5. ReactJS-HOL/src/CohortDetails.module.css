@@ -1,0 +1,18 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 18px;
+  margin: 18px auto;
+  max-width: 420px;
+  background-color: #fefefe;
+}
+
+.ongoing {
+  color: green;
+  margin-bottom: 8px;
+}
+
+.completed {
+  color: blue;
+  margin-bottom: 8px;
+}
