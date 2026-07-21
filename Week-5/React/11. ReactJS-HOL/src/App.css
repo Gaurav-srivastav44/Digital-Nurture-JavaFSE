@@ -1,0 +1,38 @@
+.App {
+  padding: 24px;
+  font-family: Arial, sans-serif;
+}
+
+.button-group {
+  display: grid;
+  gap: 8px;
+  max-width: 280px;
+  margin-bottom: 18px;
+}
+
+.button-group button {
+  padding: 10px 14px;
+  font-size: 14px;
+}
+
+.output p {
+  margin: 6px 0;
+}
+
+.currency-convertor {
+  margin-top: 24px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  max-width: 320px;
+}
+
+.currency-convertor form {
+  display: grid;
+  gap: 10px;
+}
+
+.currency-convertor input {
+  padding: 8px;
+  width: 100%;
+}
