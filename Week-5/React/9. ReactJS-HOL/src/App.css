@@ -1,0 +1,21 @@
+.App {
+  padding: 24px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #2d3a4b;
+}
+
+section {
+  margin-bottom: 24px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 6px;
+}
