@@ -1,0 +1,25 @@
+.App {
+  padding: 24px;
+  font-family: Arial, sans-serif;
+}
+
+.actions {
+  margin: 16px 0;
+}
+
+button {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  background-color: #1976d2;
+  color: white;
+  cursor: pointer;
+}
+
+.panel {
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background: #fff;
+  max-width: 420px;
+}
